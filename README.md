@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prajnamita-Lodh
+- 👋 Hi, I’m Prajnamita Lodh
 - 👀 I’m interested in "Numbers" 🔢
 - 🌱 I’m currently learning Power BI📊, SQL💻and Python🐍
 - 💞️ I’m looking to collaborate on Data visualization, Performance report building, Dasboard presentation
