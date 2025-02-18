@@ -17,13 +17,9 @@ I'm a dedicated professional with expertise in back-office operations and a pass
 # 🛠️ Technologies & Tools
 - Tools & Platforms: Power BI, Power Query, MS Excel
 - Language: DAX
-  
-# 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prajnamita-Lodh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prajnamita-Lodh&theme=dark&hide_border=false)<br/>
 
----
 [![](https://visitcount.itsvg.in/api?id=Prajnamita-Lodh&icon=9&color=0)](https://visitcount.itsvg.in)
+
 Thanks for visiting my profile! Have a great day! 😊
 <!---
 Prajnamita-Lodh/Prajnamita-Lodh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
