@@ -21,7 +21,8 @@ I'm a dedicated professional with expertise in back-office operations and a pass
 [![](https://visitcount.itsvg.in/api?id=Prajnamita-Lodh&icon=9&color=0)](https://visitcount.itsvg.in)
 
 # 🌟 Earned Batches:
-[![Credly Badge]([IMAGE_URL](https://images.credly.com/size/110x110/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png))]([LINK_TO_YOUR_CREDLY_PROFILE](https://www.credly.com/users/prajnamita-lodh))
+[![Credly Badge](https://images.credly.com/size/340x340/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png)](https://www.credly.com/badges/950a1635-e408-437e-9dc6-0d38d40f124f/public_url)
+
 
 
 Thanks for visiting my profile! Have a great day! 😊
